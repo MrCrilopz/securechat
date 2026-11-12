@@ -1,0 +1,6 @@
+"""Límites compartidos del experimento de sesión DR."""
+MAX_ACCEPTED = 256
+MAX_MESSAGE_ID_LENGTH = 128
+MAX_HISTORY = 1024
+MAX_OUTBOX = 256
+MAX_PLAINTEXT_BYTES = 65536
